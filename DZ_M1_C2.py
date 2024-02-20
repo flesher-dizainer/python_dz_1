@@ -29,16 +29,16 @@ def zadanie_4():
     print (ex)
 
 
-def zadanie_5(n=None):
+def zadanie_5():
     ex = 'Life is what happens\n\t when\n\t\t you`re busy making other plans\n\t\t\t\t\t John Lennon.'
     print (ex)
 
 
 def main():
-    #zadanie_1()
-    #zadanie_2()
-    #zadanie_3()
-    #zadanie_4()
+    zadanie_1()
+    zadanie_2()
+    zadanie_3()
+    zadanie_4()
     zadanie_5()
 
 
